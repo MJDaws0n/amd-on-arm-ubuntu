@@ -1,2 +1,2 @@
 # amd-on-arm-ubuntu
-This is just for testing perposes
+This is just for testing purposes
